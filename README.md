@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **NextJs / NodeJS**
 
+- 👯 I’m looking to collaborate on Fullstack projects.
+
 - 👨‍💻 All of my projects are available at [https://github.com/hritik0920](https://github.com/hritik0920)
 
 - 💬 Ask me about **react and express (Strapi).**
